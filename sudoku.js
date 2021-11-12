@@ -272,3 +272,29 @@ function again(){
     document.body.classList.remove("show-answer");
     document.body.classList.remove("show-invalid");
 }
+
+function tough(){
+    document.getElementById(String(3)).value = 5;
+    document.getElementById(String(4)).value = 3;
+    document.getElementById(String(10)).value = 8;
+    document.getElementById(String(17)).value = 2;
+    document.getElementById(String(20)).value = 7;
+    document.getElementById(String(23)).value = 1;
+    document.getElementById(String(25)).value = 5;
+    document.getElementById(String(28)).value = 4;
+    document.getElementById(String(33)).value = 5;
+    document.getElementById(String(34)).value = 3;
+    document.getElementById(String(38)).value = 1;
+    document.getElementById(String(41)).value = 7;
+    document.getElementById(String(45)).value = 6;
+    document.getElementById(String(48)).value = 3;
+    document.getElementById(String(49)).value = 2;
+    document.getElementById(String(53)).value = 8;
+    document.getElementById(String(56)).value = 6;
+    document.getElementById(String(58)).value = 5;
+    document.getElementById(String(63)).value = 9;
+    document.getElementById(String(66)).value = 4;
+    document.getElementById(String(71)).value = 3;
+    document.getElementById(String(78)).value = 9;
+    document.getElementById(String(79)).value = 7;
+}
